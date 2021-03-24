@@ -1,5 +1,5 @@
 library(stringr)
-#Zadanie1aaaaaaaa
+#Zadanie1
 
 tekst1 = list("TERYT 18; podkarpackie; Rzeszów; 0.2 He; A",
               "TERYT 22; pomorskie;   Gdańsk; 12 C ; B")
